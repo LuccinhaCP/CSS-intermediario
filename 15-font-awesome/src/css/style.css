@@ -1,0 +1,15 @@
+.fa-brands {
+    font-size: 100px;
+}
+
+.fa-facebook {
+    color: orange;
+}
+
+.fa-facebook:hover {
+    color: red;
+}
+
+.fa-instagram {
+    width: 100%;
+}
